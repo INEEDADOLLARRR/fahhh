@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /private/
 
-Sitemap: https://apex-roofing.example.com/sitemap.xml
+Sitemap: https://roofprosites.com/sitemap.xml
