@@ -2,7 +2,7 @@
 title: "Understanding Roof Warranties: What Homeowners Need to Know"
 excerpt: "A comprehensive guide to understanding the different types of roof warranties, from manufacturer defects to workmanship coverage."
 date: "2024-03-15"
-author: "Apex Roofing"
+author: "Roofers Scaling"
 tags: ["Education", "Warranties", "Roofing Tips"]
 image: "https://images.unsplash.com/photo-1632759145351-1d592919f522?auto=format&fit=crop&q=80&w=2000"
 ---
@@ -32,7 +32,7 @@ Even the best warranty has fine print. Here are common reasons claims get denied
 - **Installing Over Old Shingles:** Layering new shingles over old ones often voids manufacturer terms.
 - **Unlicensed Handyman Work:** Adding a skylight or satellite dish significantly alters the roof system.
 
-## The Apex Advantage
+## The Roofers Scaling Advantage
 
 As a **Master Elite Contractor**, we can offer the **Golden Pledge Warranty**. This is the highest level of protection available, covering:
 - 50 Years on Materials (Non-prorated)

@@ -83,7 +83,7 @@ export const Contact = () => {
                 </div>
                 <div>
                   <h4 className="text-lg font-bold text-primary mb-1">Lead Prediction</h4>
-                  <p className="text-secondary">We'll estimate how many exclusive leads you could be getting with a RoofPro site.</p>
+                  <p className="text-secondary">We'll estimate how many exclusive leads you could be getting with a Roofers Scaling site.</p>
                 </div>
               </div>
             </div>

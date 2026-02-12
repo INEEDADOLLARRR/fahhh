@@ -21,7 +21,7 @@ const testimonials = [
   {
     name: "Elite Roofing & Solar",
     location: "Orlando, FL",
-    quote: "RoofPro Sites handles everything. I just answer the phone and book jobs.",
+    quote: "Roofers Scaling handles everything. I just answer the phone and book jobs.",
     image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=1200",
     rating: 5
   },

@@ -16,8 +16,7 @@ export const Footer = () => {
                 </svg>
               </div>
               <div className="flex flex-col">
-                <span className="font-black text-2xl tracking-tighter text-white leading-none">RoofPro</span>
-                <span className="text-[10px] font-bold tracking-[0.3em] text-accent uppercase leading-none mt-1">Sites</span>
+                <span className="font-black text-2xl tracking-tighter text-white leading-none">Roofers Scaling</span>
               </div>
             </div>
             <p className="text-zinc-400 text-sm leading-relaxed mb-8 max-w-xs">
@@ -70,7 +69,7 @@ export const Footer = () => {
               </li>
               <li className="flex gap-3">
                 <Mail className="w-5 h-5 text-accent shrink-0" />
-                <span className="hover:text-white transition-colors cursor-pointer">hello@roofprosites.com</span>
+                <span className="hover:text-white transition-colors cursor-pointer">hello@roofersscaling.com</span>
               </li>
             </ul>
           </div>
@@ -79,7 +78,7 @@ export const Footer = () => {
 
         <div className="border-t border-white/10 pt-12 flex flex-col md:flex-row justify-between items-center gap-6">
           <div className="text-sm text-zinc-500 font-medium">
-            © {new Date().getFullYear()} RoofPro Sites. All rights reserved.
+            © {new Date().getFullYear()} Roofers Scaling. All rights reserved.
           </div>
           <div className="flex gap-8">
             <a href="#" className="text-xs text-zinc-500 hover:text-white transition-colors uppercase tracking-widest font-bold">Privacy Policy</a>

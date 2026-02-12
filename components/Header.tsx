@@ -36,7 +36,7 @@ export const Header = () => {
             </svg>
           </div>
           <div className="flex flex-col">
-            <span className="font-black text-2xl tracking-tighter text-primary leading-none">RoofPro</span>
+            <span className="text-xl font-bold tracking-tight text-primary">Roofers Scaling</span>
             <span className="text-[10px] font-bold tracking-[0.3em] text-accent uppercase leading-none mt-1">Sites</span>
           </div>
         </div>

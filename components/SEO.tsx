@@ -15,13 +15,13 @@ interface SEOProps {
 }
 
 export const SEO = ({
-    title = "RoofPro Sites | High-Converting Websites for Roofing Contractors",
+    title = "Roofers Scaling | High-Converting Websites for Roofing Contractors",
     description = "We build SEO-optimized, high-converting websites for roofing contractors. Get more leads, booked jobs, and local visibility with a custom roofing website.",
-    canonical = "https://roofprosites.com",
+    canonical = "https://roofersscaling.com",
     ogImage = "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=1200",
     article
 }: SEOProps) => {
-    const siteUrl = "https://roofprosites.com";
+    const siteUrl = "https://roofersscaling.com";
     const fullCanonical = canonical.startsWith('http') ? canonical : `${siteUrl}${canonical}`;
 
     const schemaData = {
@@ -46,10 +46,10 @@ export const SEO = ({
             },
             "publisher": {
                 "@type": "Organization",
-                "name": "RoofPro Sites",
+                "name": "Roofers Scaling",
                 "logo": {
                     "@type": "ImageObject",
-                    "url": "https://roofprosites.com/logo.png"
+                    "url": "https://roofersscaling.com/logo.png"
                 }
             }
         } : {
